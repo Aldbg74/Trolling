@@ -1,0 +1,7 @@
+#!/bin/bash
+
+while :
+do
+	open "https://www.youtube.com/watch?v=T_X-BbsXXAk"
+	sleep 80
+done
