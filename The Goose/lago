@@ -1,0 +1,31 @@
+#!/bin/bash
+while :
+do
+    sleep 2
+	open "Goose.app"
+    sleep 2
+    open "https://www.google.fr/?client=safari"
+    sleep 5
+    open "https://www.youtube.com/watch?v=XS4edlvY-ks"
+    echo "le dieu de la goose prend ton ordinateur"
+    echo "le dieu de la goose prend ton ordinateur"
+    echo "le dieu de la goose prend ton ordinateur"
+    echo "le dieu de la goose prend ton ordinateur"
+    echo "le dieu de la goose prend ton ordinateur"
+    echo "le dieu de la goose prend ton ordinateur"
+    echo "le dieu de la goose prend ton ordinateur"
+    echo "le dieu de la goose prend ton ordinateur"
+    echo "le dieu de la goose prend ton ordinateur"
+    echo "le dieu de la goose prend ton ordinateur"
+    echo "le dieu de la goose prend ton ordinateur"
+    echo "le dieu de la goose prend ton ordinateur"
+    echo "le dieu de la goose prend ton ordinateur"
+    echo "le dieu de la goose prend ton ordinateur"
+    echo "le dieu de la goose prend ton ordinateur"
+    echo "le dieu de la goose prend ton ordinateur"
+    echo "le dieu de la goose prend ton ordinateur"
+    echo "le dieu de la goose prend ton ordinateur"
+    sleep 12000
+done
+
+# (c) adrago-b  2021
