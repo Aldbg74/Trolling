@@ -9,10 +9,6 @@ One that is harmless, says I LOVE U. Perfect for declaring your love to your cul
 - <h3>Creepy</h3>
 Opens creepy images after 200s
 
-- <h3>Porn</h3>
-NOT FOR USE ON 42 CULSTERS / NOT FOR USE ON 42 CULSTERS / NOT FOR USE ON 42 CULSTERS <br>
-Open porn tabs
-
 - <h3>Trollakpote</h3>
 Play alkpot and vald
 
