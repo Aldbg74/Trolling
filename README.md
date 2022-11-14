@@ -15,3 +15,9 @@ Open porn tabs
 
 - <h3>Trollakpote</h3>
 Play alkpot and vald
+
+- <h3>King Norminet</h3>
+The to remind the superiority of king norminet
+
+- <h3>Goose</h3>
+Start the program goose (not mine) with music
