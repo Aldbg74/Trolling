@@ -17,3 +17,6 @@ The to remind the superiority of king norminet
 
 - <h3>Goose</h3>
 Start the program goose (not mine) with music
+
+-<h3>Merry Chrismass</h3>
+Just say merry chrismass with music to your coworker
