@@ -20,3 +20,9 @@ Start the program goose (not mine) with music
 
 - <h3>Merry Chrismass</h3>
 Just say merry chrismass with music to your coworker
+
+- <h3>Le Camion des Potes </h3>
+Si t'as pas de pote, c'est le camion des potes
+
+- <h3>Cat</h3>
+nianianianianainainaianainaia
