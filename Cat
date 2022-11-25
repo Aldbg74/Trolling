@@ -1,0 +1,12 @@
+#!/bin/bash
+
+while :
+do
+    echo "Hello World"
+    echo "Hello la team 42"
+    echo "Le truc se lance mettez le en pleine ecran son a fond"
+    echo "et faites le tourner sur toutes les machines de 42"
+    sleep 4
+    echo "https://www.youtube.com/watch?v=QH2-TGUlwu4"
+	sleep 100000
+done
